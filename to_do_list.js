@@ -1,5 +1,3 @@
-import readline from 'readline';
-import http from 'http';
 const notification = readline.createInterface({
  input:process.stdin,
  output:process.stdout
